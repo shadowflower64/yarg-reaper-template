@@ -1,0 +1,10 @@
+# MIDI note/CC name map
+87 Guitarist Sing Along
+86 Drummer Sing Along
+85 Bassist Sing Along
+84 ----
+41 Spotlight on Keys
+40 Spotlight on Vocals
+39 Spotlight on Guitar
+38 Spotlight on Drums
+37 Spotlight on Bass

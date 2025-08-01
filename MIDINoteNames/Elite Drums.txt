@@ -1,0 +1,80 @@
+# MIDI note/CC name map
+120 Drum Fill/BRE
+119 ----
+118 Lane R Crash
+117 Lane Ride
+116 Lane Tom 3
+115 Lane Tom 2
+114 Lane Tom 1
+113 Lane L Crash
+112 Lane Hi-Hat
+111 Lane Snare
+110 Lane Kick
+108 Lane Stomp/Splash
+107 ----
+104 Star Power Phrase
+103 Solo Marker
+102 ----
+90 X Disco Flip
+88 X Indifferent Yellow
+87 X Flam
+83 ----
+82 X R Crash
+81 X Ride
+80 X Tom 3
+79 X Tom 2
+78 X Tom 1
+77 X L Crash
+76 X Hi-Hat
+75 X Snare
+74 X Kick
+73 X Kick 2x
+72 X Hi-Hat Pedal Down
+71 ----
+66 H Disco Flip
+64 H Indifferent Yellow
+63 H Flam
+59 ----
+58 H R Crash
+57 H Ride
+56 H Tom 3
+55 H Tom 2
+54 H Tom 1
+53 H L Crash
+52 H Hi-Hat
+51 H Snare
+50 H Kick
+49 H Kick 2x
+48 H Hi-Hat Pedal Down
+47 ----
+42 M Disco Flip
+40 M Indifferent Yellow
+39 M Flam
+35 ----
+34 M R Crash
+33 M Ride
+32 M Tom 3
+31 M Tom 2
+30 M Tom 1
+29 M L Crash
+28 M Hi-Hat
+27 M Snare
+26 M Kick
+25 M Kick 2x
+24 M Hi-Hat Pedal Down
+23 ----
+18 E Disco Flip
+16 E Indifferent Yellow
+15 E Flam
+11 ----
+10 E R Crash
+9 E Ride
+8 E Tom 3
+7 E Tom 2
+6 E Tom 1
+5 E L Crash
+4 E Hi-Hat
+3 E Snare
+2 E Kick
+1 E Kick 2x
+0 E Hi-Hat Pedal Down

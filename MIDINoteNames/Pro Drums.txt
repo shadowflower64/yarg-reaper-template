@@ -1,0 +1,76 @@
+# MIDI note/CC name map
+127 2L Roll
+126 1L Roll
+125 ----
+124 Drum Fill/BRE
+123 Drum Fill/BRE
+122 Drum Fill/BRE
+121 Drum Fill/BRE
+120 Drum Fill/BRE
+119 ----
+116 Star Power Phrase
+115 ----
+112 Green Tom Marker
+111 Blue Tom Marker
+110 Yellow Tom Marker
+109 Flam
+108 ----
+103 Solo Marker
+102 ----
+100 X Green
+99 X Blue
+98 X Yellow
+97 X Red
+96 X Kick
+95 X 2x Kick
+94 ----
+88 H Green
+87 H Blue
+86 H Yellow
+85 H Red
+84 H Kick
+83 H 2x Kick
+82 ----
+76 M Green
+75 M Blue
+74 M Yellow
+73 M Red
+72 M Kick
+71 M 2x Kick
+70 ----
+64 E Green
+63 E Blue
+62 E Yellow
+61 E Red
+60 E Kick
+59 E 2x Kick
+58 ----
+52 -- Animation --
+51 Floor Tom RH
+50 Floor Tom LH
+49 Low Tom RH
+48 Low Tom LH
+47 High Tom RH
+46 High Tom LH
+45 Right Crash Soft LH
+44 Right Crash Hard LH
+43 Ride LH
+42 Ride RH
+41 Right Crash Choke
+40 Left Crash Choke
+39 Right Crash Soft RH
+38 Right Crash Hard RH
+37 Left Crash Soft RH
+36 Left Crash Hard RH
+35 Left Crash Soft LH
+34 Left Crash Hard LH
+33 Perc LH
+32 Perc RH
+31 Hi-Hat RH
+30 Hi-Hat LH
+29 Snare Rim RH
+28 Snare Rim LH
+27 Snare RH
+26 Snare LH
+25 Hat Pedal Open
+24 Kick RF

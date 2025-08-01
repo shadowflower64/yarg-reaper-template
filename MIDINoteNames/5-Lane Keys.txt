@@ -1,0 +1,36 @@
+# MIDI note/CC name map
+127 Trill Marker
+126 ----
+124 BRE
+123 BRE
+122 BRE
+121 BRE
+120 BRE (use all 5)
+119 ----
+116 Star Power Phrase
+115 ----
+103 Solo Marker
+102 ----
+100 X Orange
+99 X Blue
+98 X Yellow
+97 X Red
+96 X Green
+95 ----
+88 H Orange
+87 H Blue
+86 H Yellow
+85 H Red
+84 H Green
+83 ----
+76 M Orange
+75 M Blue
+74 M Yellow
+73 M Red
+72 M Green
+71 ----
+64 E Orange
+63 E Blue
+62 E Yellow
+61 E Red
+60 E Green

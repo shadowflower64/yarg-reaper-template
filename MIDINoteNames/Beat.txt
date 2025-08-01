@@ -1,0 +1,4 @@
+# MIDI note/CC name map
+14 Weak Beats
+13 Up Beats
+12 Downbeat

@@ -1,0 +1,68 @@
+# MIDI note/CC name map
+127 Trill Marker
+126 Tremolo Marker
+125 ----
+124 BRE
+123 BRE
+122 BRE
+121 BRE
+120 BRE (use all 5)
+119 ----
+116 Star Power Phrase
+115 ----
+104 Tap Marker
+103 Solo Marker
+102 X Force HOPO Off
+101 X Force HOPO On
+100 X Orange
+99 X Blue
+98 X Yellow
+97 X Red
+96 X Green
+95 X Open
+94 ----
+90 H Force HOPO Off
+89 H Force HOPO On
+88 H Orange
+87 H Blue
+86 H Yellow
+85 H Red
+84 H Green
+83 H Open
+82 ----
+78 M Force HOPO Off
+77 M Force HOPO On
+76 M Orange
+75 M Blue
+74 M Yellow
+73 M Red
+72 M Green
+71 M Open
+70 ----
+66 E Force HOPO Off
+65 E Force HOPO On
+64 E Orange
+63 E Blue
+62 E Yellow
+61 E Red
+60 E Green
+59 E Open
+58 Fret 12 (LH Highest)
+57 Fret 11
+56 Fret 10
+55 Fret 9
+54 -
+53 Fret 8
+52 Fret 7
+51 -
+50 Fret 6
+49 Fret 5
+48 -
+47 Fret 4
+46 -
+45 Fret 3
+44 -
+43 Fret 2
+42 -
+41 -
+40 Fret 1 (LH Lowest)
